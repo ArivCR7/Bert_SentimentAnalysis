@@ -1,4 +1,4 @@
-# Bert_SentimentAnalysis
+# SentimentAnalysis
 
 One of the tasks that required manual interpretation is the sentiment analysis where there involves a huge manual effort in analyzing the sentiment of a sentence. The sentence can be a tweet/review/feedback or anything about a company/moview/product/person/party,etc. Designing a system that automatically classifies the sentiment to a positive/negative/neutral would bring down a huge manual effort. 
 
