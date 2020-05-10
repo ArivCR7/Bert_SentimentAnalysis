@@ -13,4 +13,7 @@ In this repo, we use BERT(Bidirectional Encoder Representational Transformers) t
 
 https://www.youtube.com/watch?v=x66kkDnbzi4&list=PLam9sigHPGwOBuH4_4fr-XvDbe5uneaf6
 
+# Reference
+https://www.youtube.com/watch?v=hinZO--TEk4
+
 
