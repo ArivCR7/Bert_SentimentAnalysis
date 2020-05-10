@@ -9,4 +9,8 @@ Sentiment Analysis were tried with some traditional methods that involves findin
 Another technique that overcame this shortcoming is the neural network based sequence modelling where we train a network in a supervised manner. It required a lot of training for accurate sentence classification. With the advent of transfer learning in NLP, it became very easy to use a pretrained model that learnt the better language representation to perform a particular task.
 
 # SOTA - Transfer Learning in NLP
-In this repo, we use BERT(Bidirectional Encoder Representational Transformers) to perform sentiment analysis task.
+In this repo, we use BERT(Bidirectional Encoder Representational Transformers) to perform sentiment analysis task. To understand BERT better, refer the link below:
+
+https://www.youtube.com/watch?v=x66kkDnbzi4&list=PLam9sigHPGwOBuH4_4fr-XvDbe5uneaf6
+
+
